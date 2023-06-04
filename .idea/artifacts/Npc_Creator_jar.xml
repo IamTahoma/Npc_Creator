@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Npc_Creator:jar">
+    <output-path>$PROJECT_DIR$/../MC_Server/plugins</output-path>
+    <root id="archive" name="Npc_Creator.jar">
+      <element id="module-output" name="Npc_Creator" />
+    </root>
+  </artifact>
+</component>

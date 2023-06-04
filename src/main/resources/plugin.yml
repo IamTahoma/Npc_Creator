@@ -1,0 +1,5 @@
+name: Npc_Creator
+version: '${project.version}'
+main: iamtahoma.npc_creator.Npc_Creator
+api-version: 1.19
+authors: [IamTahoma]
