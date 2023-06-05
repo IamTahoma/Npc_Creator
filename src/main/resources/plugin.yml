@@ -3,3 +3,13 @@ version: '${project.version}'
 main: iamtahoma.npc_creator.Npc_Creator
 api-version: 1.19
 authors: [IamTahoma]
+depend: [Citizens]
+commands:
+  create_npc:
+    description: Crea un NPC en la ubicación actual del jugador.
+    usage: /create_npc [nombre]
+  delete_npc:
+    description: Elimina un NPC Segun su ID.
+    usage: /delete_npc [ID]
+  list_npc:
+    description: Muestra la lista de NPCs creados.
