@@ -9,7 +9,7 @@ commands:
     description: Crea un NPC en la ubicación actual del jugador.
     usage: /create_npc [nombre]
   delete_npc:
-    description: Elimina un NPC Segun su nombre.
-    usage: /delete_npc [nombre]
+    description: Elimina un NPC Segun su ID.
+    usage: /delete_npc [ID]
   list_npc:
-    description: Muestra la lista de NPCs creados
+    description: Muestra la lista de NPCs creados.
